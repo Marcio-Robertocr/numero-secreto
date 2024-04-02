@@ -1,11 +1,9 @@
- **README.md**:
+<h1>Jogo do número secreto</h1>
 
-```markdown
-#Curso de GitHub
+<h2>Sobre</h2>
+<p>Projeto para praticar as utilidades do Git e suas ferramentas</p>
 
-Praticando as utilidades do Git e suas ferramentas
-
-
+<h2>Tecnologias</h2>
 
 ## Contribuições
 
