@@ -4,6 +4,7 @@
 <p>Projeto para praticar as utilidades do Git e suas ferramentas</p>
 
 <h2>Tecnologias</h2>
+<p>HTML & CSS</p>
 
 ## Contribuições
 
